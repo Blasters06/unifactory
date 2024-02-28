@@ -610,7 +610,7 @@
       "name": "Wrapped Q",
       "symbol": "WQ"
     }
-  }
+  },
    168587773: {
     name: "Blast Testnet",
     rpc: "https://sepolia.blast.io/",
