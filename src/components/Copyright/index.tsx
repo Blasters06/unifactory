@@ -4,8 +4,8 @@ export default function Copyright() {
   return (
     <>
       Powered by{' '}
-      <a href="https://onout.org/dex" target="_blank" rel="noopener noreferrer">
-        OnOut - no-code tool for creating DEX
+      <a href="https://blastlaunchpad.xyz/" target="_blank" rel="noopener noreferrer">
+        BlastPad - Decentralized Launchpad Platform on Blast Network
       </a>
     </>
   )
