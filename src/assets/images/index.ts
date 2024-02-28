@@ -27,7 +27,7 @@ import SHIBARIUM from './shibarium.png'
 import GUAPX from './guapx.png'
 import SCROLL_ETH from './scroll.io.png'
 import Q from './q.png'
-import BLAST from './Blast.png'
+import BLAST_ETH from './Blast.png'
 
 
 export const CURRENCY = {
