@@ -591,7 +591,7 @@
       "symbol": "WQ"
     }
   },
-  168587773: {
+  "168587773": {
     name: "Blast Testnet",
     rpc: "https://sepolia.blast.io/",
     chainId: 168587773,
